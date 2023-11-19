@@ -1,7 +1,7 @@
 # Merhaba, Ben [Burak Gökmen]! 👋
 
-[![Twitter Follow](https://twitter.com/gokmeenburak)
-[![Linkedin: kullaniciadi](https://www.linkedin.com/in/burak-g%C3%B6kmen-327b4b293/)
+[Twitter](https://twitter.com/gokmeenburak)
+[Linkedin](https://www.linkedin.com/in/burak-g%C3%B6kmen-327b4b293/)
 
 ## Hakkımda
 
@@ -21,9 +21,10 @@ Merhaba, ben [Burak]! Yazılım geliştirme, tasarım yapma ve teknolojiye olan 
 
 ## 📫 İletişim
 
-Eğer benimle iletişime geçmek istiyorsanız, aşağıdaki platformlardan birisini kullanabilirsiniz:
+- How to reach me **burakgokmen125@gmail.com**
 
-- 📫 How to reach me **burakgokmen125@gmail.com**
+## Sosyal Medya Hesaplarım...
+
 - Twitter: [@kullaniciadi](https://twitter.com/gokmeenburak)
 - LinkedIn: [kullaniciadi](https://www.linkedin.com/in/burak-g%C3%B6kmen-327b4b293/)
 - İnstagram: [kullaniciadi](https://www.instagram.com/burakgookmen/)
@@ -31,7 +32,6 @@ Eğer benimle iletişime geçmek istiyorsanız, aşağıdaki platformlardan biri
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakgookmen&label=Profile%20views&color=0e75b6&style=flat" alt="burakgookmen" /> </p>
 
-- 📫 How to reach me **burakgokmen125@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
