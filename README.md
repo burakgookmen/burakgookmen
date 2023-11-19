@@ -1,6 +1,34 @@
-<h1 align="center">Hi 👋, I'm Burak Gökmen</h1>
-<h3 align="center">I'm a front-end developer. I love reading,working and traveling. I am prone to teamwork and love spending time at work.</h3>
+# Merhaba, Ben [Burak Gökmen]! 👋
 
+[![Twitter Follow](https://twitter.com/gokmeenburak)
+[![Linkedin: kullaniciadi](https://www.linkedin.com/in/burak-g%C3%B6kmen-327b4b293/)
+
+## Hakkımda
+
+Merhaba, ben [Burak]! Yazılım geliştirme, tasarım yapma ve teknolojiye olan tutkumdan dolayı sürekli olarak öğrenmeye ve yeni projeler üretmeye hevesli birisiyim. Şu anda [Udemig] bünyesinde [Frontend] öğrencisi olarak Öğrenim Görmekteyim.
+
+## 🚀 Beceriler ve Teknolojiler
+
+- 💻 c#, JavaScript
+- HTML, CSS, SCSS, SASS, Bootstrap
+- React Öğrenme aşamasındayım
+- 🔧 VS Code, Visual Studio.
+
+## 🌱 Şu Anda Öğreniyorum
+
+- 🎯 Javascript
+- 🚀 React
+
+## 📫 İletişim
+
+Eğer benimle iletişime geçmek istiyorsanız, aşağıdaki platformlardan birisini kullanabilirsiniz:
+
+- 📫 How to reach me **burakgokmen125@gmail.com**
+- Twitter: [@kullaniciadi](https://twitter.com/gokmeenburak)
+- LinkedIn: [kullaniciadi](https://www.linkedin.com/in/burak-g%C3%B6kmen-327b4b293/)
+- İnstagram: [kullaniciadi](https://www.instagram.com/burakgookmen/)
+
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakgookmen&label=Profile%20views&color=0e75b6&style=flat" alt="burakgookmen" /> </p>
 
 - 📫 How to reach me **burakgokmen125@gmail.com**
