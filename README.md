@@ -1,18 +1,14 @@
-# Merhaba, Ben [Burak Gökmen]! 👋
-
-[Twitter](https://twitter.com/gokmeenburak)
-[Linkedin](https://www.linkedin.com/in/burak-g%C3%B6kmen-327b4b293/)
+# Merhaba, Ben [Burak Gökmen]! 👋   
 
 ## Hakkımda
 
-Merhaba, ben [Burak]! Yazılım geliştirme, tasarım yapma ve teknolojiye olan tutkumdan dolayı sürekli olarak öğrenmeye ve yeni projeler üretmeye hevesli birisiyim. Şu anda [Udemig] bünyesinde [Frontend] öğrencisi olarak Öğrenim Görmekteyim.
+Merhaba, ben Burak! Yazılım geliştirme, tasarım yapma ve teknolojiye olan tutkumdan dolayı sürekli olarak öğrenmeye ve yeni projeler üretmeye hevesli birisiyim. Şu anda Udemig bünyesinde Frontend öğrencisi olarak Öğrenim Görmekteyim.
 
 ## 🚀 Beceriler ve Teknolojiler
 
-- 💻 c#, JavaScript
+- 💻 JavaScript, c#, React
 - HTML, CSS, SCSS, SASS, Bootstrap
-- React Öğrenme aşamasındayım
-- 🔧 VS Code, Visual Studio.
+- VS Code, Visual Studio.
 
 ## 🌱 Şu Anda Öğreniyorum
 
@@ -22,18 +18,10 @@ Merhaba, ben [Burak]! Yazılım geliştirme, tasarım yapma ve teknolojiye olan 
 ## 📫 İletişim
 
 - How to reach me **burakgokmen125@gmail.com**
-
-## Sosyal Medya Hesaplarım...
-
-- Twitter: [@kullaniciadi](https://twitter.com/gokmeenburak)
-- LinkedIn: [kullaniciadi](https://www.linkedin.com/in/burak-g%C3%B6kmen-327b4b293/)
-- İnstagram: [kullaniciadi](https://www.instagram.com/burakgookmen/)
-
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakgookmen&label=Profile%20views&color=0e75b6&style=flat" alt="burakgookmen" /> </p>
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">my social media accounts...</h3>
 <p align="left">
 <a href="https://twitter.com/gokmeenburak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokmeenburak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/burak-g%c3%b6kmen-327b4b293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burak-g%c3%b6kmen-327b4b293/" height="30" width="40" /></a>
