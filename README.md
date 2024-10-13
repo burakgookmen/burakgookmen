@@ -1,39 +1,25 @@
-# Hello, I'm Burak Gökmen! 👋   
+<h1 align="center">Merhaba 👋, Ben Burak Gökmen</h1>
+<h3 align="center">“Burak Gökmen | Ön Uç Geliştirici ve Kullanıcı Arayüzü Meraklısı”</h3>
 
-## About me...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakgookmen&label=Profile%20views&color=0e75b6&style=flat" alt= "burakgookmen" /> </p>
 
--Hello, I'm Burak! Because of my passion for software development, design and technology, I am eager to constantly learn and produce new projects. I am currently studying at Udemig as a Frontend student.
+- 🔭 Şu anda üzerinde çalışıyorum [Portföy](https://burakgokmen.netlify.app/)
 
--Merhaba, ben Burak! Yazılım geliştirme, tasarım yapma ve teknolojiye olan tutkumdan dolayı sürekli olarak öğrenmeye ve yeni projeler üretmeye hevesli birisiyim. Şu anda Udemig bünyesinde Frontend öğrencisi olarak Öğrenim Görmekteyim.
+- 🌱 Şu anda öğreniyorum **C#, .Net Core, JavaScript, React**
 
+- 📫 Bana nasıl ulaşılabilir? **buraakgookmen@gmail.com**
 
-## 🚀 Skills and Technologies...
+- 📄 Özgeçmişimden haberdar olun [https://drive.google.com/file/d/1OYl2Qi3qARBIhzzAwLBkdhLchGedk-Dp/view?usp=drive_link](https://drive.google.com/ file/d/1OYl2Qi3qARBIhzzAwLBkdhLchGedk-Dp/view?usp=drive_link)
 
-- JavaScript, c#, React
-- HTML, CSS, SCSS, SASS, Bootstrap
-- VS Code, Visual Studio.
-
-## 🌱 I'm learning right now...
-
-- 🎯 Javascript
-- 🚀 React
-
-## 📫 communication...
-
-- How to reach me **burakgokmen125@gmail.com**
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakgookmen&label=Profile%20views&color=0e75b6&style=flat" alt="burakgookmen" /> </p>
-
-<h3 align="left">my social media accounts...</h3>
+<h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://twitter.com/gokmeenburak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokmeenburak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/burak-g%c3%b6kmen-327b4b293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burak-g%c3%b6kmen-327b4b293/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/burakgookmen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/burakgookmen/" height="30" width="40" /></a>
+<a href="https://linkedin.com /in/burak gökmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Sosyal/linked-in-alt.svg" alt="burak gökmen" height="30" width="40" /></a>
+<a href="https://instagram.com/burakgookmen" target="blank"><img align="center" src="https ://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakgookmen" height="30" width="40" /> </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=burakgookmen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=burakgookmen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=burakgookmen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="önyükleme" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" genişlik="40" yükseklik="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" genişlik="40" yükseklik="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" genişlik="40" yükseklik="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" genişlik="40" yükseklik="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" genişlik="40" yükseklik="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" genişlik="40" yükseklik="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" genişlik="40" yükseklik="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" genişlik="40" yükseklik="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" genişlik="40" yükseklik="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" genişlik="40" yükseklik="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" genişlik="40" yükseklik="40"/> </a> </p>zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" genişlik="40" yükseklik="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" genişlik="40" yükseklik="40"/> </a> </p>zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" genişlik="40" yükseklik="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" genişlik="40" yükseklik="40"/> </a> </p>org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" genişlik="40" yükseklik="40"/> </a> </p>org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" genişlik="40" yükseklik="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" genişlik="40" yükseklik="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakgookmen&show_icons=true&locale=tr&layout=compact"
+
+alt="burakgookmen" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=burakgookmen&show_icons=true&locale=tr" alt="burakgookmen" /></p>
